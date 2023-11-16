@@ -11,7 +11,9 @@
 
 4. Execute below commands
 
+```
 terraform init
 terrraform validate
 terraform plan
 terraform apply
+```
